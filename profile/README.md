@@ -1,6 +1,6 @@
 # 운동 루틴 관리 서비스
 
-<img src="./Image//로고.png">
+<img src="../Image//로고.png">
 
 커밋바디는 사용자가 자신만의 운동 루틴을 설정하고, 운동 기록을 체계적으로 관리할 수 있도록 돕는 서비스입니다.
 <br/>
@@ -15,7 +15,7 @@
 
 ## 📐 피그마
 
-[🔗 프로젝트 디자인 보러가기](#https://www.figma.com/design/hal6mBTAFGVjW9eCAILUNy/%EC%BB%A4%EB%B0%8B%EB%B0%94%EB%94%94?node-id=92-5&p=f&t=IoYfwAmVxmUhj7OG-0)
+[🔗 프로젝트 디자인 보러가기](https://www.figma.com/design/qSh4lgZYEaqPOsQ7V2TMnn/%EC%BB%A4%EB%B0%8B%EB%B0%94%EB%94%94_?node-id=0-1&p=f&t=PRatuH5an4b0GPHh-0)
 
 ## 🌏 구현기능
 
@@ -33,7 +33,7 @@
 
 ## 🏗️ 아키텍처
 
-<img src="./Image//아키텍쳐.png" width="100%" height="500px">
+<img src="../Image//아키텍쳐.png" width="100%" height="500px">
 
 ## ☄️ 트러블 슈팅
 
@@ -108,12 +108,12 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/Leeseunghwan7305">
+            <a href="https://github.com/supersett">
                 <img src="https://img.shields.io/badge/Hyunwoo%20Jung-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/Leeseunghwan7305">
+            <a href="https://github.com/CHISANW">
                 <img src="https://img.shields.io/badge/MinWoo-green?style=social&logo=github"/>
             </a>
         </td>
